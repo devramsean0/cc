@@ -29,4 +29,9 @@ p {
 .subtitle {
   font-family: 'Dancing Script', cursive;
 }
+
+.image {
+  width: auto;
+  height: 200px;
+}
 /*# sourceMappingURL=main.css.map */
