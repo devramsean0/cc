@@ -34,4 +34,20 @@ p {
   width: auto;
   height: 200px;
 }
+
+.allign-top {
+  top: auto;
+}
+
+.allign-left {
+  left: auto;
+}
+
+.allign-right {
+  right: auto;
+}
+
+.allign-bottom {
+  bottom: auto;
+}
 /*# sourceMappingURL=main.css.map */

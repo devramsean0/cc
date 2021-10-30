@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "ACAA,OAAO,CAAC,wFAAI;AACZ,OAAO,CAAC,kEAAI;AACZ,OAAO,CAAC,2EAAI;ACFZ,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAC,KAAK;CACzB;;ACJD,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAC,OAAO;EACxB,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CAC1B;;ACLD,AAAA,MAAM,CAAC;EACH,WAAW,EAAE,mBAAmB;CACnC;;ACFD,AAAA,CAAC,CAAC;EACE,WAAW,EAAE,2BAA2B;CAC3C;;ACFD,AAAA,SAAS,CAAC;EACN,WAAW,EAAE,yBAAyB;CACzC;;ACFD,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CAChB",
+    "mappings": "ACAA,OAAO,CAAC,wFAAI;AACZ,OAAO,CAAC,kEAAI;AACZ,OAAO,CAAC,2EAAI;ACFZ,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAC,KAAK;CACzB;;ACJD,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAC,OAAO;EACxB,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CAC1B;;ACLD,AAAA,MAAM,CAAC;EACH,WAAW,EAAE,mBAAmB;CACnC;;ACFD,AAAA,CAAC,CAAC;EACE,WAAW,EAAE,2BAA2B;CAC3C;;ACFD,AAAA,SAAS,CAAC;EACN,WAAW,EAAE,yBAAyB;CACzC;;ACFD,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CAChB;;ACHD,AAAA,WAAW,CAAC;EACR,GAAG,EAAE,IAAI;CACZ;;ACFD,AAAA,YAAY,CAAC;EACT,IAAI,EAAE,IAAI;CACb;;ACFD,AAAA,aAAa,CAAC;EACV,KAAK,EAAE,IAAI;CACd;;ACFD,AAAA,cAAc,CAAC;EACX,MAAM,EAAE,IAAI;CACf",
     "sources": [
         "main.scss",
         "main-partials/_fonts.scss",
@@ -9,7 +9,11 @@
         "main-partials/_title.scss",
         "main-partials/_p.scss",
         "main-partials/_subtitle.scss",
-        "main-partials/_image.scss"
+        "main-partials/_image.scss",
+        "main-partials/allign/_allign-top.scss",
+        "main-partials/allign/_allign-left.scss",
+        "main-partials/allign/_allign-right.scss",
+        "main-partials/allign/_allign-bottom.scss"
     ],
     "names": [],
     "file": "main.css"
